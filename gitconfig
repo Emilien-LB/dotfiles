@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = emilien_leborgne@icloud.com
+	name = emilien le borgne
